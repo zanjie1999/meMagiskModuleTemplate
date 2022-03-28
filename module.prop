@@ -1,0 +1,7 @@
+# id 只能填 字母 数字 半角符号
+id=meMagisk
+name=咩咩的空白模块
+version=v1
+versionCode=1
+author=咩咩
+description=一个简短的描述
